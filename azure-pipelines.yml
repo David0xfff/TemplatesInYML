@@ -1,0 +1,7 @@
+trigger:
+- main
+
+extends:
+  template: template.yml
+  parameters:
+      yesNo: false 
