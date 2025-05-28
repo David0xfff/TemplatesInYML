@@ -1,6 +1,6 @@
 # TemplatesInYML
 
-Plantillas YAML reutilizables para automatizar flujos de trabajo de CI/CD en proyectos de software. Este repositorio proporciona ejemplos prácticos para facilitar la integración y despliegue continuo utilizando Azure Pipelines.
+Plantillas YAML reutilizables para automatizar flujos de trabajo de CI/CD. Este repositorio proporciona ejemplos prácticos para facilitar la integración y despliegue continuo utilizando Azure Pipelines.
 
 ## 📁 Estructura del repositorio
 
