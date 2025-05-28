@@ -3,5 +3,5 @@ trigger:
 
 extends:
   template: template.yml
-  parameters:
-      yesNo: false 
+#  parameters:
+#      yesNo: false 
