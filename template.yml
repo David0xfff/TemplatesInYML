@@ -1,7 +1,7 @@
 parameters:
 - name: yesNo # Nombre del parametro 
   type: boolean # tipo 
-  default: false
+  default: 1
 
 steps:
 - script: echo ${{ parameters.yesNo }}
